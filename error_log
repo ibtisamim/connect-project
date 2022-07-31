@@ -1,0 +1,2 @@
+[26-Sep-2021 15:14:15 UTC] PHP Fatal error:  Cannot declare class AddFieldsToBusinessDbSettingsTable, because the name is already in use in /home/josequal/public_html/kudos/database/migrations/2021_09_26_101608_add_fields_to_business_table.php on line 7
+[26-Sep-2021 15:15:12 UTC] PHP Fatal error:  Cannot declare class AddFieldsToBusinessesTable, because the name is already in use in /home/josequal/public_html/kudos/database/migrations/2021_09_26_101608_add_fields_to_business_table.php on line 7
